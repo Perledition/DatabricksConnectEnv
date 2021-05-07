@@ -1,0 +1,17 @@
+{
+  "instance_name1": {
+    "host": "host address e.g https/westeurope.azuredatabricks.net/",
+    "token": "your databricks token of the instance",
+    "cluster_id": "cluster id in that instance",
+    "org_id": "org id of that instance",
+    "port": "port the cluster listens to"
+  },
+  "instance_name2": {
+    "host": "host address e.g https/westeurope.azuredatabricks.net/",
+    "token": "your databricks token of the instance",
+    "cluster_id": "cluster id in that instance",
+    "org_id": "org id of that instance",
+    "port": "port the cluster listens to"
+  },
+
+}
